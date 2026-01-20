@@ -68,31 +68,6 @@ These exercises helped improve my **problem-solving mindset** using NumPy.
 
 ---
 
-## 📁 Project Structure
-
-numpy-practice/
-│
-├── arrays/
-│ ├── array_creation.ipynb
-│ ├── array_indexing.ipynb
-│ └── array_operations.ipynb
-│
-├── practice/
-│ └── student_marks_analysis.ipynb
-│
-├── exercises/
-│ ├── valid_sudoku.ipynb
-│ └── other_practice_questions.ipynb
-│
-├── trig_functions.ipynb
-├── plotting_visualization.ipynb
-└── README.md
-
-yaml
-Copy code
-
----
-
 ## 🎯 Goal of This Repository
 The goal of this repository is to:
 - Strengthen NumPy fundamentals
